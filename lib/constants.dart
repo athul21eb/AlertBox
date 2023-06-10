@@ -10,7 +10,7 @@ final ButtonStyle buttonStyle = ButtonStyle(
     Colors.white,
   ),
   padding: MaterialStateProperty.all(
-    const EdgeInsets.all(8),
+    const EdgeInsets.all(10),
   ),
   elevation: MaterialStateProperty.all(0),
   shape: MaterialStateProperty.all(
